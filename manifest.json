@@ -1,0 +1,19 @@
+{
+  "name": "Pampas",
+  "short_name": "Pampas",
+  "theme_color": "",
+  "background_color": "#0D0D0D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1773740607-apple-touch-icon-57x57.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
